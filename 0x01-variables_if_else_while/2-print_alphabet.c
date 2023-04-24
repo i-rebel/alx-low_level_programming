@@ -7,13 +7,12 @@
 
 int main(void)
 {
-	char x = 'a';
+	char alphabet;
 
-	while (x >= a)
+	while (alphabet++)
 	{
-		putchar("x");
+		putchar("alphabet");
 		putchar(' ');
-		x++;
 	}
 	return (0);
 }
