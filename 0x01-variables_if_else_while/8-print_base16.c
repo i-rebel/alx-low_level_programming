@@ -12,7 +12,7 @@ int main(void)
 	int y;
 
 	x = 'a';
-	x =  0;
+	y = 0;
 	while (y < 10)
 	{
 		putchar(y + '0');
