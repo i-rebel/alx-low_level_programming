@@ -15,7 +15,7 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 
 	int lastDigit;
-	char phrase[] = Last digit of;
+	char phrase[] = "Last digit of";
 
 	if (lastDigit > 5)
 	{
