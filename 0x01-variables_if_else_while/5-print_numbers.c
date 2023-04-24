@@ -10,10 +10,7 @@ int main(void)
 {
 	int x;
 
-	if (x >= 0 && x <= 10);
-	{
-		printf("%d\n", x);
-		x++;
-	}
+	for (x=0; x<=10; x++)
+      		printf("%d\n", x);
 	return (0);
 }
