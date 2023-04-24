@@ -13,13 +13,13 @@ int main(void)
 
 	for (x = 01; x < 100; x++)
 	{
-		printchar(x)
+		putchar(x)
 			if (x < 99)
 			{
-				printchar(',');
-				printchar(' ');
+				putchar(',');
+				putchar(' ');
 			}
 	}
-	printchar('\n');
+	putchar('\n');
 	return (0);
 }
