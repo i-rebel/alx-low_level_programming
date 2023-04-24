@@ -10,7 +10,7 @@ int main(void)
 {
 	int x;
 
-	while (x >= 0 && x <= 10);
+	if (x >= 0 && x <= 10);
 	{
 		printf("%d\n", x);
 		x++;
