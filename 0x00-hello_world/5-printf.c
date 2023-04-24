@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - Prints out with proper grammar, but the outcome is a piece of art
+ *main - Prints out with proper grammar, but the outcome is a piece of art,
  *Return: Returns 0 (success)
  */
 
