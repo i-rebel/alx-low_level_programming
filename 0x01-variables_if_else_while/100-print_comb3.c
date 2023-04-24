@@ -13,7 +13,7 @@ int main(void)
 
 	for (x = 01; x < 100; x++)
 	{
-		putchar(x)
+		putchar(x);
 			if (x < 99)
 			{
 				putchar(',');
