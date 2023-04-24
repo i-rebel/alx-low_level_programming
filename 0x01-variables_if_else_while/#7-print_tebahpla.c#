@@ -16,6 +16,7 @@ int main(void)
 		putchar(x);
 		x--;
 	}
-	putchar('\n');
+	 pjj
 	return (0);
 }
+'klxsjkacjkgascjkcdajkbas
