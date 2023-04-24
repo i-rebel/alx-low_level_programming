@@ -11,7 +11,7 @@ int main(void)
 
 	while (alphabet++)
 	{
-		putchar("alphabet");
+		putchar("%s\n", alphabet);
 		putchar(' ');
 	}
 	return (0);
