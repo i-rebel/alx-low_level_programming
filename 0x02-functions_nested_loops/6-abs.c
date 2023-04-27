@@ -2,15 +2,17 @@
 
 /**
  * _abs - computes the absolute value of an integer
- * @int: character to be checked
+ * @i: character to be checked
  * Return: Always 0
  */
 
-int _abs(int)
+int _abs(int i)
 {
-	int i;
-	int j = abs(i);
+	if i > 0
+{
+	int abs_val = i * 1;
 
-	_putchar(j);
-	return (0);
+	return (abs_val);
+}
+	return (i);
 }
